@@ -2,7 +2,7 @@
 
 
 **NOTE unmaintained**
-This project was completed as an assignment for a Telecommunication class. Written in C#.
+This project was completed as an assignment for a Telecommunication class. Written in Visual Basic.
 
 The main point is not the graphics nor the gameplay but connecting via bluetooth and using the Wiimote as a cursor/controller.
 This could be easily extended to run certain tasks when you push certain WiiMote buttons. Like change the music, open a browser.. etc.
