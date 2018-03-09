@@ -1,0 +1,12 @@
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\bin\Debug\2nmct6-andrei.clinciu-WiiProject.exe
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\bin\Debug\2nmct6-andrei.clinciu-WiiProject.pdb
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\bin\Debug\2nmct6-andrei.clinciu-WiiProject.xml
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\_2nmct6_andrei.clinciu_WiiProject.frmWii.resources
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\_2nmct6_andrei.clinciu_WiiProject.Resources.resources
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\2nmct6-andrei.clinciu-WiiProject.exe
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\2nmct6-andrei.clinciu-WiiProject.xml
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\obj\x86\Debug\2nmct6-andrei.clinciu-WiiProject.pdb
+C:\School\Datacom\Project\2nmct6-andrei.clinciu-WiiProject\2nmct6-andrei.clinciu-WiiProject\bin\Debug\WII.HID.Lib.dll
